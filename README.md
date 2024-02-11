@@ -1,4 +1,4 @@
-# Koi-CNN
+# koi-cnn
 
 ![alt text][logo1]
 
